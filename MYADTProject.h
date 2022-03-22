@@ -5,4 +5,5 @@
 #ifndef UNTITLED_MYADTPROJECT_H
 #define UNTITLED_MYADTPROJECT_H
 #include"List.h"
+#include"Stack.h"
 #endif //UNTITLED_MYADTPROJECT_H
